@@ -1,8 +1,0 @@
-U
-�xp^?�@s
-        dd�ZdS)cCsDtd�td�}|�|�|dkr$|dkr.q@|��}t|�dS)Nz[+] Running commandsz>> ��stop)�print�input�	send_data�receive_command_result)�	my_socketZcommand�result�r	�AE:\Python Hacking course\Source Code\HackerServer\core\command.py�
-                                                      run_commands
-r
- N)r
-    r	r	r	r
-<module>
